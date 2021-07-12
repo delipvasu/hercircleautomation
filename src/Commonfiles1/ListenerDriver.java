@@ -37,8 +37,8 @@ import Baseclass.baseclass;
 public  class ListenerDriver extends baseclass implements ITestListener,IRetryAnalyzer,IAnnotationTransformer
 {
 	public WebDriver driver;
-	static String failureTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\FailureScreenShot\\";
-    static String successTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\SucussScreenShot\\";
+	static String failureTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\hercircleautomation\\FailureScreenShot\\";
+    static String successTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\hercircleautomation\\SucussScreenShot\\";
     private int retryCnt = 0;
     private int maxRetryCnt = 1; /* maxRetryCnt (Maximiun Retry Count) as per your requirement. Here I took 1, If any failed testcases then it runs two times*/
 

@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestCases.VerifythehercircleLogin">
+      <class name="TestCases.verifythehercircleExistinguserlogin">
         <methods>
-          <include name="hercirclelogin"/>
+          <include name="browser1s"/>
           <include name="Deletefile"/>
-          <include name="Applaunch"/>
-          <include name="Aftermethod"/>
+          <include name="verifytheExistinguserloginpage"/>
         </methods>
-      </class> <!-- TestCases.VerifythehercircleLogin -->
+      </class> <!-- TestCases.verifythehercircleExistinguserlogin -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

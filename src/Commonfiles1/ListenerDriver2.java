@@ -38,8 +38,8 @@ import Baseclass.baseclass;
 public  class ListenerDriver2 extends Mobilebaseclass implements ITestListener,IRetryAnalyzer,IAnnotationTransformer
 {
 	public WebDriver driver;
-	static String failureTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\MobileFailureScreenShot\\";
-    static String successTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\MobileSucussScreenShot\\";
+	static String failureTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\hercircleautomation\\MobileFailureScreenShot\\";
+    static String successTestCase_ScreenShotLocation = "C:\\HercirclemobileAutomation\\hercircleautomation\\MobileSucussScreenShot\\";
     private int retryCnt = 0;
     private int maxRetryCnt = 1; /* maxRetryCnt (Maximiun Retry Count) as per your requirement. Here I took 1, If any failed testcases then it runs two times*/
 
