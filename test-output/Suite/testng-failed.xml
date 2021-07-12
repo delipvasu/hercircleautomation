@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Commonfiles1.ExtentReport"/>
+    <listener class-name="FailedTestRunner.MyTransformer"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestCases.VerifythehercircleLogin">
+        <methods>
+          <include name="Deletefile"/>
+          <include name="hercirclelogin"/>
+          <include name="Applaunch"/>
+          <include name="Aftermethod"/>
+        </methods>
+      </class> <!-- TestCases.VerifythehercircleLogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="hercircleMobileAutomation" thread-count="60" >
+<listeners>
+<listener class-name="Commonfiles1.ExtentReport2"/>
+<listener class-name="FailedTestRunner.MyTransformer"/>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="TestCases.VerifythehercircleLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

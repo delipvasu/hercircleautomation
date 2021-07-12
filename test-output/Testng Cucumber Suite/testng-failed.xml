@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testng Cucumber Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="Commonfiles1.ExtentReport"/>
+    <listener class-name="FailedTestRunner.MyTransformer"/>
+  </listeners>
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="TestCases.Verifythefbloginpage">
+        <methods>
+          <include name="browser1s"/>
+          <include name="loginfbpage"/>
+          <include name="Aftermethod"/>
+        </methods>
+      </class> <!-- TestCases.Verifythefbloginpage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Testng Cucumber Suite] -->

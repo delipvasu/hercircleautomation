@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin Jul 09   15.40.06.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin1 Jul 09   15.41.03.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin2 Jul 09   15.42.08.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin3 Jul 09   15.43.12.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin4 Jul 09   15.44.06.png" alt=""/>]]>
+    </line>
+  </reporter-output>
+  <suite name="hercircleMobileAutomation" duration-ms="309757" started-at="2021-07-09T22:39:02Z" finished-at="2021-07-09T22:44:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="309757" started-at="2021-07-09T22:39:02Z" finished-at="2021-07-09T22:44:12Z">
+      <class name="TestCases.VerifythehercircleLogin">
+        <test-method status="PASS" signature="Deletefile()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Deletefile" is-config="true" duration-ms="9" started-at="2021-07-09T15:39:02Z" finished-at="2021-07-09T15:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletefile -->
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Applaunch" is-config="true" duration-ms="11428" started-at="2021-07-09T15:39:02Z" finished-at="2021-07-09T15:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="hercirclelogin()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="hercirclelogin" duration-ms="51151" started-at="2021-07-09T15:39:13Z" finished-at="2021-07-09T15:40:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin Jul 09   15.40.06.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hercirclelogin -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Aftermethod" is-config="true" duration-ms="5761" started-at="2021-07-09T15:40:06Z" finished-at="2021-07-09T15:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Applaunch" is-config="true" duration-ms="10131" started-at="2021-07-09T15:40:12Z" finished-at="2021-07-09T15:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="hercirclelogin1()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="hercirclelogin1" duration-ms="39573" started-at="2021-07-09T15:40:22Z" finished-at="2021-07-09T15:41:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin1 Jul 09   15.41.03.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hercirclelogin1 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Aftermethod" is-config="true" duration-ms="5853" started-at="2021-07-09T15:41:03Z" finished-at="2021-07-09T15:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Applaunch" is-config="true" duration-ms="10341" started-at="2021-07-09T15:41:09Z" finished-at="2021-07-09T15:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="hercirclelogin2()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="hercirclelogin2" duration-ms="47215" started-at="2021-07-09T15:41:20Z" finished-at="2021-07-09T15:42:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin2 Jul 09   15.42.08.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hercirclelogin2 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Aftermethod" is-config="true" duration-ms="5799" started-at="2021-07-09T15:42:08Z" finished-at="2021-07-09T15:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Applaunch" is-config="true" duration-ms="9469" started-at="2021-07-09T15:42:14Z" finished-at="2021-07-09T15:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="hercirclelogin3()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="hercirclelogin3" duration-ms="46688" started-at="2021-07-09T15:42:24Z" finished-at="2021-07-09T15:43:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin3 Jul 09   15.43.12.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hercirclelogin3 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Aftermethod" is-config="true" duration-ms="5805" started-at="2021-07-09T15:43:12Z" finished-at="2021-07-09T15:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Applaunch" is-config="true" duration-ms="10360" started-at="2021-07-09T15:43:18Z" finished-at="2021-07-09T15:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="hercirclelogin4()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="hercirclelogin4" duration-ms="36200" started-at="2021-07-09T15:43:28Z" finished-at="2021-07-09T15:44:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://C:\HercirclemobileAutomation\MobileSucussScreenShot\hercirclelogin4 Jul 09   15.44.06.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hercirclelogin4 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:TestCases.VerifythehercircleLogin@2344fc66]" name="Aftermethod" is-config="true" duration-ms="5753" started-at="2021-07-09T15:44:06Z" finished-at="2021-07-09T15:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+      </class> <!-- TestCases.VerifythehercircleLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- hercircleMobileAutomation -->
+</testng-results>
