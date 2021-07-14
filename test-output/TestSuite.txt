@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.164 sec <<< FAILURE! - in TestSuite
+Applaunch(TestCases.VerifythehercircleLogin)  Time elapsed: 0.827 sec  <<< FAILURE!
+io.appium.java_client.service.local.InvalidServerInstanceException: The main Appium script does not exist at 'C:\Windows\system32\config\systemprofile\AppData\Roaming\npm\node_modules\appium\build\lib\main.js'
+

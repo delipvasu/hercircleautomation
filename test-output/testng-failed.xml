@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite thread-count="60" verbose="0" name="Failed suite [hercircleMobileAutomation]">
+  <listeners>
+    <listener class-name="Commonfiles1.ExtentReport2"/>
+    <listener class-name="FailedTestRunner.MyTransformer"/>
+  </listeners>
+  <test name="Test(failed)">
     <classes>
-      <class name="TestCases.verifythehercircleExistinguserlogin">
+      <class name="TestCases.VerifythehercircleLogin">
         <methods>
-          <include name="browser1s"/>
+          <include name="hercirclelogin"/>
           <include name="Deletefile"/>
-          <include name="verifytheExistinguserloginpage"/>
+          <include name="Applaunch"/>
         </methods>
-      </class> <!-- TestCases.verifythehercircleExistinguserlogin -->
+      </class> <!-- TestCases.VerifythehercircleLogin -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [hercircleMobileAutomation] -->
